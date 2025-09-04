@@ -12,7 +12,7 @@ public class HomeTask3 {
         if (salary <= 20000) {
             return (salary * 7) / 100;
         }
-        return (salary * 14) / 100;
+        else return (salary * 14) / 100;
     }
 
     // 3B
